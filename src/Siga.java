@@ -2,7 +2,25 @@ import java.util.Scanner;
 
 public class Siga {
     public static void main(String[] args) {
-        //1210922311021
+        
+        /*
+        Faça um programa que receba os dados de diversos alunos da FATEC Rio Preto, que são:
+        RA
+        Nome
+        Idade
+        Sexo
+        Curso
+        Período
+        
+        O programa termina quando for digitado um RA = 0.
+        Ao final, mostre:
+        - quantos alunos são do curso de INFO, AGRO E ADS
+        - qual é a quantidade de pessoas do sexo Feminino
+        - qual é o nome da pessoa mais velha e a sua idade
+        - qual é o curso da pessoa mais nova e a sua idade
+        - quantos alunos são de AGRO e estão no 6o período 
+        */
+        
         Scanner scanner = new Scanner(System.in);
         
         //String nome = new String();
